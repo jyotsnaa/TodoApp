@@ -12,9 +12,12 @@
  Or You can create the Application by following step
  
    npx create-react-app 'project name'
+   
    npm install @material-ui/core
    
    And Copy the code and run
    npm start
+   
+   open http://localhost:3000/ 
    
    
